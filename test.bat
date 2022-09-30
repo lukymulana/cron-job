@@ -1,0 +1,1 @@
+php c:/xampp/htdocs/cron-job/cron.php /check/checkCondition
